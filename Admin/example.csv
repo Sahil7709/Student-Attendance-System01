@@ -1,0 +1,6 @@
+Id,firstName,lastName,otherName,admissionNumber,password,classId,classArmId,dateCreated
+1,John,Doe,Michael,12345,pass123,1,1,2023-01-10
+2,Jane,Smith,Ann,12346,pass456,1,2,2023-01-11
+3,Robert,Johnson,Lee,12347,pass789,2,1,2023-01-12
+4,Emily,Williams,Marie,12348,pass321,2,2,2023-01-13
+5,Michael,Brown,James,12349,pass654,3,1,2023-01-14

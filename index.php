@@ -14,7 +14,7 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <link href="img/logo/attnlg.jpg" rel="icon">
-    <title>Code Camp BD - Login</title>
+    <title>AMS - Login</title>
     <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="css/ruang-admin.min.css" rel="stylesheet">
@@ -33,7 +33,7 @@ session_start();
                                 <div class="login-form">
                                     <h5 align="center">STUDENT ATTENDANCE SYSTEM</h5>
                                     <div class="text-center">
-                                        <img src="img/logo/attnlg.jpg" style="width:100px;height:100px">
+                                        <!-- <img src="img/logo/attnlg.jpg" style="width:100px;height:100px"> -->
                                         <br><br>
                                         <h1 class="h4 text-gray-900 mb-4">Login Panel</h1>
                                     </div>
@@ -42,7 +42,7 @@ session_start();
                                             <select required name="userType" class="form-control mb-3">
                                                 <option value="">--Select User Roles--</option>
                                                 <option value="Administrator">Administrator</option>
-                                                <option value="ClassTeacher">ClassTeacher</option>
+                                                <!-- <option value="ClassTeacher">ClassTeacher</option> -->
                                             </select>
                                         </div>
                                         <div class="form-group">
